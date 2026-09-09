@@ -31,7 +31,10 @@ Moava is a parent-and-child app that helps families build healthy money habits b
 
 ## 🚀 Live Demo
 
-https://moava-app.vercel.app/
+[View the live Moava demo →](https://moava-app.vercel.app/)
+
+## 📖 Case Study
+[Read the Moava case study →](https://www.minaryu.com/moava)
 
 ---
 
